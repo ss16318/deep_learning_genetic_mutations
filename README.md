@@ -1,1 +1,1 @@
-# deep_learning_genetic_mutations
+# Multiple Instance Learning for Genetic Mutation Detection in Histopathology
