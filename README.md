@@ -11,6 +11,8 @@ by OWKIN](https://challengedata.ens.fr/participants/challenges/98/). Then you mu
 2. Run the *Data_Prep* file, which processes the data and saves it in the *Processed_Data* folder.
 3. Now you can run any other file in the repo.
 
+NB. Code was developed on *Google Drive*, therefore code regarding drive mounting and file paths is set accordinly. 
+
 ## File Descriptions
 - **EDA.ipynb** gives summary statistics of distributions between some of the following: samples with/without the mutation, the centers from which the sample was collected, the patients and the sample zooms.
 - **Logistic_Regression.ipynb** creates baseline logistic regression models that make validation and test predictions. The test predictions are stored in the *Predictions* folder (these can be uploaded to the [Challenge Page](https://challengedata.ens.fr/participants/challenges/98/)) to get an AUC score.
