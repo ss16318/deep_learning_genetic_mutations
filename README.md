@@ -13,5 +13,7 @@ by OWKIN](https://challengedata.ens.fr/participants/challenges/98/). Then you mu
 - **CHOWDER_tuning.ipynb** is similar to **CHOWDER.ipynb** except the architecture has been slightly modified and performance on the validation data is shared for different hyperparameter settings (no test predictions are made)
 - **Hybrid.ipynb** is a modified version of the CHOWDER the tuned CHOWDER model that includes coordinate data. Predictions are made for validation and test (with the test being saved in the *Predictions* folder)
 - **Hybrid_Tuning.ipynb** tunes the hybrid model in a similar fashion to **CHOWDER_tuning.ipynb**
+- **Decisive.ipynb** accesses data in the *Decisive* folder and plots visualizations of how good the models in this repo are at making predictions
+- **Development Folder** has other files that were used to generate results for the project report
   
    
