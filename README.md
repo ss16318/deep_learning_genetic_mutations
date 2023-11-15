@@ -1,7 +1,9 @@
 # Multiple Instance Learning for Genetic Mutation Detection in Histopathology
 
 ## Background
+Some indiviudals have a genetic mutation which makes them resistant to certain types of breast cancer therapy, but respond well to other types. Specifically, being able to detect the PIK3CA genetic mutation in histopathlogy images is an ideal indicator for determining personalized treatment plans that have the highest potential of improving patient outcomes. Currently, expert DNA sequencers analyzed these large histopathology images (of sizes 150,000x200,000 pixels) to detect the mutation and hence determine the treatment. There are limited DNA sequencing experts and the process is time consuming, so not everyone has access to this vital resource. This project attempts to implement deep learning models that can automatically detect the mutation. This streamlining will make breast cancer response faster and its personalization more accessible, both of which increase the chance of better patient outcomes.  
 
+For further details about the background, data, models and results please refer to the project report [TODO-Upload paper](placeholder)
 
 ## Setup
 1. You will have to download the data from the Challenge Page: [Detecting PIK3CA mutation in breast cancer
